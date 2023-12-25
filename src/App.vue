@@ -1,3 +1,10 @@
 <template>
-  <h1>Hello Vue3</h1>
+  <RouterView></RouterView>
+ 
 </template>
+
+<script lang="ts" setup="setup" name="App">
+    
+</script>
+
+<style></style>
